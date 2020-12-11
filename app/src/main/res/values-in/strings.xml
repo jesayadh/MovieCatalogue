@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">Katalog Film 2</string>
+    <string name="title_home">Film</string>
+    <string name="title_dashboard">Acara Tv</string>
+
+    <string name="name_movies">Nama Movie</string>
+
+    <string-array name="data_name1">
+        <item>A Star Is Born</item>
+        <item>Aquaman</item>
+        <item>Bird Box</item>
+        <item>Bumblebee</item>
+        <item>Avenger: Infinity War</item>
+        <item>Bohemian Rhapsody</item>
+        <item>Creed</item>
+        <item>Deadpool</item>
+        <item>How to Train Your Dragon: The Hidden World</item>
+        <item>Dragon Ball Z: Broly – The Legendary Super Saiyan</item>
+    </string-array>
+
+    <string-array name="data_name2">
+        <item>Cities: Nature\'s New Wild</item>
+        <item>Buy It Now</item>
+        <item>Wannabe</item>
+        <item>Freefonix</item>
+        <item>The Fix</item>
+        <item>Life Sentence</item>
+        <item>Hadaka no Shounen</item>
+        <item>Moeyo Ken TV</item>
+        <item>All Together Now</item>
+        <item>Are You Human?</item>
+    </string-array>
+
+    <string-array name="data_description1">
+        <item>Musisi kawakan Jackson Maine menemukan - dan jatuh cinta dengan - artis yang sedang berjuang Ally. Dia baru saja menyerah pada mimpinya untuk menjadi besar sebagai penyanyi - sampai Jack membujuknya menjadi sorotan. Tetapi bahkan ketika karier Ally lepas landas, sisi pribadi dari hubungan mereka hancur, ketika Jack berjuang terus-menerus dengan setan-setan internalnya sendiri.</item>
+        <item>Dulunya merupakan rumah bagi peradaban paling maju di Bumi, Atlantis sekarang merupakan kerajaan bawah laut yang diperintah oleh Raja Orm yang haus kekuasaan. Dengan pasukan yang sangat besar, Orm berencana untuk menaklukkan orang-orang samudera yang tersisa dan kemudian ke permukaan. Yang menghalangi jalannya adalah Arthur Curry, saudara setengah manusia, setengah saudara lelaki Atlantis dan pewaris sejati takhta.</item>
+        <item>Lima tahun setelah kehadiran tak terlihat yang tak menyenangkan membuat sebagian besar masyarakat bunuh diri, seorang yang selamat dan dua anaknya melakukan upaya putus asa untuk mencapai keselamatan.</item>
+        <item>Dalam pelarian pada tahun 1987, Bumblebee menemukan tempat perlindungan di tempat barang rongsokan di kota pantai kecil California. Charlie, di puncak usia 18 dan berusaha menemukan tempatnya di dunia, menemukan Bumblebee, bekas luka pertempuran dan patah. Ketika Charlie menghidupkannya, dia dengan cepat mengetahui bahwa ini bukan bug VW kuning biasa.</item>
+        <item>Ketika Avengers dan sekutu mereka terus melindungi dunia dari ancaman yang terlalu besar untuk ditangani oleh satu pahlawan, bahaya baru telah muncul dari bayang-bayang kosmik: Thanos. Seorang lalim penghinaan intergalaksi, tujuannya adalah untuk mengumpulkan semua enam Batu Infinity, artefak kekuatan tak terbayangkan, dan menggunakannya untuk menimbulkan keinginannya yang terpelintir pada semua kenyataan. Segala yang Avengers telah perjuangkan telah mengarah ke saat ini - nasib Bumi dan keberadaannya sendiri tidak pernah lebih pasti.</item>
+        <item>Penyanyi Freddie Mercury, gitaris Brian May, drummer Roger Taylor dan gitaris bass John Deacon mengambil dunia musik dengan badai ketika mereka membentuk band rock Queen Rock pada tahun 1970. Lagu-lagu hit menjadi klasik instan. Ketika gaya hidup Mercury yang semakin liar mulai lepas kendali, Queen segera menghadapi tantangan terbesarnya - menemukan cara untuk menjaga band tetap bersama di tengah kesuksesan dan kelebihan.</item>
+        <item>Mantan Juara Kelas Berat Dunia Rocky Balboa melayani sebagai pelatih dan mentor bagi Adonis Johnson, putra dari almarhum teman dan mantan saingannya Apollo Creed.</item>
+        <item>Deadpool menceritakan kisah asal-usul mantan anggota Pasukan Khusus yang berubah menjadi tentara bayaran Wade Wilson, yang setelah menjadi sasaran percobaan jahat yang membuatnya memiliki kekuatan penyembuhan yang dipercepat, mengadopsi Deadpool alter ego. Dipersenjatai dengan kemampuan barunya dan selera humornya yang gelap dan berputar-putar, Deadpool memburu pria yang hampir menghancurkan hidupnya.</item>
+        <item>Ketika Hiccup memenuhi mimpinya untuk menciptakan utopia naga yang damai, penemuan Toothless \'dari pasangan yang tak teruji dan sukar ditangkap membuat Night Fury menjauh. Ketika bahaya meningkat di rumah dan pemerintahan Hiccup sebagai kepala desa diuji, baik naga dan pengendara harus membuat keputusan yang mustahil untuk menyelamatkan jenis mereka.</item>
+        <item>Saat Goku menyelidiki penghancuran Galaksi Selatan, Vegeta dianggap sebagai Raja dari Planet Baru Vegeta, dan untuk menghancurkan Super Saiyan Legendaris, Broly.</item>
+    </string-array>
+
+    <string-array name="data_description2">
+        <item>Temukan cara luar biasa hewan dari segala bentuk dan ukuran beradaptasi untuk memanfaatkan peluang di habitat terbaru dan tercepat yang berubah di planet ini - kota kami.</item>
+        <item>Penemu, pencipta dan penjual produk baru hanya memiliki 90 detik untuk menunjukkan barang mereka di hadapan audiensi pembeli dengan harapan mengamankan pesanan untuk produk mereka. Tuan rumah Brian Conley.</item>
+        <item>Maxine tidak pernah mencapai puncaknya sebagai bagian dari girl grup Variety, tetapi masih berusaha keras untuk tetap berpegang pada mimpinya sebagai manajer musik (gagal) musik untuk grup pop remaja Sweet Gyal. Namun Maxine mendapati dirinya dalam krisis ketika, muak dengan usahanya untuk hidup secara perwakilan melalui mereka dan usahanya yang memalukan untuk membuatkan mereka sebuah kontrak rekaman, Sweet Gyal mengancam untuk menjatuhkannya. Tapi Maxine telah membuat rencana. A kembali. Kali ini lebih besar, lebih berani, dan ... lebih tua. Lagipula, siapa yang peduli dengan sekelompok gadis muda yang seksi ?! Apa yang sebenarnya hilang dari dunia adalah Mum Pop.</item>
+        <item>Freefonix adalah serial televisi animasi CGI Inggris tentang petualangan band fiksi dengan nama yang sama.</item>
+        <item>Komedian Jimmy Carr, D.L. Hughley dan Katherine Ryan mengatasi kesengsaraan dunia dengan bantuan dari kru berputar tamu lucu dan ahli yang sebenarnya.</item>
+        <item>Ketika Stella mengetahui bahwa kanker terminalnya telah sembuh, dia harus belajar hidup dengan semua pilihan yang dia buat ketika dia memutuskan untuk \"hidup seperti dia sekarat\".</item>
+        <item>Acara memasak dengan dua kelompok Johnny Jr., HiHi Jets dan Sexy Bishounen</item>
+        <item>Sejak era berubah dari Edo ke Meiji, Jepang telah berubah dengan cepat dengan kebijakan modernisasi pemerintah saat ini. Kyoto tempat Expo diadakan. Pemerintah mengeluarkan lisensi untuk monster yang hidup dengan manusia. Ada perusahaan yang menangkap monster yang tidak terdaftar untuk menjaga perdamaian. Nama perusahaan adalah \"Kido Shinsengumi Co. Ltd.\" Sementara itu, seorang pria muda kembali ke Kyoto dari Shanghai dengan teman monsternya, Nekomaru. Dia adalah Sakamoto Ryunosuke, putra Sakamoto Ryoma.</item>
+        <item>Tujuh telah mulai mempromosikan panel juri TV terbesar - 99 hakim bergabung dengan kapten Ronan Keating di All Together Now. Dengan 100 hakim, set tinggi enam lantai dan Julia Zemiro sebagai tuan rumah, itu tidak menjadi lebih besar. Dipimpin oleh penyanyi terkenal Ronan Keating, The 100 terdiri dari penyanyi dan profesional industri dengan suara besar dan pendapat yang lebih besar.</item>
+        <item>Nam Shin adalah putra dari keluarga yang menjalankan perusahaan besar. Setelah kecelakaan yang tak terduga, dia jatuh koma. Ibunya, Oh Ro-Ra, seorang ahli di bidang ilmu otak dan kecerdasan buatan. Dia menciptakan android bernama Nam Shin III yang mirip seperti putranya Nam Shin. Android berpura-pura menjadi Nam Shin dan dia memiliki pengawal So-Bong</item>
+    </string-array>
+
+    <array name="data_photo1">
+        <item>@drawable/poster_a_star</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_birdbox</item>
+        <item>@drawable/poster_bumblebee</item>
+        <item>@drawable/poster_avengerinfinity</item>
+        <item>@drawable/poster_bohemian</item>
+        <item>@drawable/poster_creed</item>
+        <item>@drawable/poster_deadpool</item>
+        <item>@drawable/poster_dragon</item>
+        <item>@drawable/poster_dragonball</item>
+    </array>
+
+    <array name="data_photo2">
+        <item>@drawable/poster_cities_nature</item>
+        <item>@drawable/poster_buyitnow</item>
+        <item>@drawable/poster_wannabe</item>
+        <item>@drawable/poster_freefonix</item>
+        <item>@drawable/poster_thefix</item>
+        <item>@drawable/poster_lifesentence</item>
+        <item>@drawable/poster_hadaka</item>
+        <item>@drawable/poster_moeyo</item>
+        <item>@drawable/poster_alltogether</item>
+        <item>@drawable/poster_human</item>
+    </array>
+
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+</resources>

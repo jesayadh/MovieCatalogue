@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">Movie Catalogue 2</string>
+    <string name="title_home">Movie</string>
+    <string name="title_dashboard">Tv Show</string>
+
+
+    <string name="name_movies">Nama Movie</string>
+
+    <string-array name="data_name1">
+        <item>A Star Is Born</item>
+        <item>Aquaman</item>
+        <item>Bird Box</item>
+        <item>Bumblebee</item>
+        <item>Avenger: Infinity War</item>
+        <item>Bohemian Rhapsody</item>
+        <item>Creed</item>
+        <item>Deadpool</item>
+        <item>How to Train Your Dragon: The Hidden World</item>
+        <item>Dragon Ball Z: Broly – The Legendary Super Saiyan</item>
+    </string-array>
+
+    <string-array name="data_name2">
+        <item>Cities: Nature\'s New Wild</item>
+        <item>Buy It Now</item>
+        <item>Wannabe</item>
+        <item>Freefonix</item>
+        <item>The Fix</item>
+        <item>Life Sentence</item>
+        <item>Hadaka no Shounen</item>
+        <item>Moeyo Ken TV</item>
+        <item>All Together Now</item>
+        <item>Are You Human?</item>
+    </string-array>
+
+    <string-array name="data_description1">
+        <item>Seasoned musician Jackson Maine discovers — and falls in love with — struggling artist Ally. She has just about given up on her dream to make it big as a singer — until Jack coaxes her into the spotlight. But even as Ally\'s career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.</item>
+        <item>Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people and then the surface world. Standing in his way is Arthur Curry, Orm\'s half-human, half-Atlantean brother and true heir to the throne.</item>
+        <item>Five years after an ominous unseen presence drives most of society to suicide, a survivor and her two children make a desperate bid to reach safety.</item>
+        <item>On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town. Charlie, on the cusp of turning 18 and trying to find her place in the world, discovers Bumblebee, battle-scarred and broken. When Charlie revives him, she quickly learns this is no ordinary yellow VW bug.</item>
+        <item>As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.</item>
+        <item>Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock \'n\' roll band Queen in 1970. Hit songs become instant classics. When Mercury\'s increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest challenge yet – finding a way to keep the band together amid the success and excess.</item>
+        <item>The former World Heavyweight Champion Rocky Balboa serves as a trainer and mentor to Adonis Johnson, the son of his late friend and former rival Apollo Creed.</item>
+        <item>Deadpool tells the origin story of former Special Forces operative turned mercenary Wade Wilson, who after being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego Deadpool. Armed with his new abilities and a dark, twisted sense of humor, Deadpool hunts down the man who nearly destroyed his life.</item>
+        <item>As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless’ discovery of an untamed, elusive mate draws the Night Fury away. When danger mounts at home and Hiccup’s reign as village chief is tested, both dragon and rider must make impossible decisions to save their kind.</item>
+        <item>As Goku investigates the destruction of the Southern Galaxy, Vegeta is taken to be King of the New Planet Vegeta, and to destroy the Legendary Super Saiyan, Broly.</item>
+    </string-array>
+
+    <string-array name="data_description2">
+        <item>Discover the remarkable ways animals of all shapes and sizes are adapting to make the most of opportunities in the newest and fastest changing habitat on the planet - our cities.</item>
+        <item>Inventors, creators and sellers of new products have just 90 seconds to demonstrate their item before an audience of buyers in the hope of securing an order for their product. Hosted by Brian Conley.</item>
+        <item>Maxine never made it to the big time as part of girl group Variety, but is still desperately trying to cling on to her dream as the (failing) music manager for teenage pop group Sweet Gyal. However Maxine finds herself in crisis when, fed up of her trying to live vicariously through them and her embarrassing attempts to get them a record deal, Sweet Gyal threaten to drop her. But Maxine has come up with a plan. A come back. This time bigger, bolder and, well... older. Who cares about a hip young girl group anyway?! What the world is really missing is Mum Pop.</item>
+        <item>Freefonix is a British CGI animated television series about the adventures of fictional band of the same name.</item>
+        <item>Comedians Jimmy Carr, D.L. Hughley and Katherine Ryan tackle the world\'s woes with help from a rotating crew of funny guests and an actual expert.</item>
+        <item>When Stella finds out her terminal cancer is cured, she\'s going to have to learn to live with all the choices she\'s made when she decided to \"live like she was dying\".</item>
+        <item>Cooking show with two Johnny Jr. groups, HiHi Jets and Sexy Bishounen.</item>
+        <item>Since the era changed from Edo to Meiji, Japan has been changing rapidly with the current government\'s policy of modernization. Kyoto where Expo was being held. The government issued licenses to monsters that lived with humans. There was a company that arrested unregistered monsters to keep the peace. The name of the company is \"Kido Shinsengumi Co. Ltd.\" Meanwhile, a young guy came back to Kyoto from Shanghai with his monster buddy, Nekomaru. He was Sakamoto Ryunosuke, the son of Sakamoto Ryoma.</item>
+        <item>Seven has started promoting the biggest TV judging panel ever – 99 judges joining captain Ronan Keating on All Together Now. With 100 judges, a six-storey high set and Julia Zemiro as host, it doesn’t get any bigger. Headed up by singing superstar Ronan Keating, The 100 is made up of singers and industry professionals with big voices and even bigger opinions.</item>
+        <item>Nam Shin is a son from a family who runs a large company. After an unexpected accident, he falls into a coma. His mother Oh Ro-Ra is an authority on brain science and artificial intelligence. She creates an android named Nam Shin III which looks like just like her son Nam Shin. The android pretends to be Nam Shin and he has a bodyguard So-Bong</item>
+    </string-array>
+
+    <array name="data_photo1">
+        <item>@drawable/poster_a_star</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_birdbox</item>
+        <item>@drawable/poster_bumblebee</item>
+        <item>@drawable/poster_avengerinfinity</item>
+        <item>@drawable/poster_bohemian</item>
+        <item>@drawable/poster_creed</item>
+        <item>@drawable/poster_deadpool</item>
+        <item>@drawable/poster_dragon</item>
+        <item>@drawable/poster_dragonball</item>
+    </array>
+
+    <array name="data_photo2">
+        <item>@drawable/poster_cities_nature</item>
+        <item>@drawable/poster_buyitnow</item>
+        <item>@drawable/poster_wannabe</item>
+        <item>@drawable/poster_freefonix</item>
+        <item>@drawable/poster_thefix</item>
+        <item>@drawable/poster_lifesentence</item>
+        <item>@drawable/poster_hadaka</item>
+        <item>@drawable/poster_moeyo</item>
+        <item>@drawable/poster_alltogether</item>
+        <item>@drawable/poster_human</item>
+    </array>
+
+    <string name="change_language_settings">Change Language Settings</string>
+</resources>
